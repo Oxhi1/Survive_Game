@@ -6,6 +6,8 @@ Basit bir kaynak toplama ve bina inşa etme tabanlı 2D tarayıcı oyunu. Oyuncu
 
 Oyunun oynanış videosu	--> https://www.youtube.com/watch?v=E2EDXpgyghE <--- 
 
+Oyunu oynamak isterseniz ---> https://oxhi1.github.io/Survive_Game/  <----
+
 ## 🚀 Başlarken
 
 Bu talimatlar, oyunu yerel olarak çalıştırmak ve test etmek için gerekli adımları gösterir.
